@@ -98,6 +98,7 @@ because in Brooklyn there are more private room than in Manhattan
 
 ```python
 Based on type of room and median price in Manhattan and Brooklyn, the more properties there is a probability the properties
-are not that expensive maybe because there are a lot of properties so hosts competing each other and 
+are not that expensive maybe because there are a lot of properties so hosts competing each other there are more factors that
+need to be analyze furthermore.
 ```
 
