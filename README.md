@@ -80,5 +80,24 @@ The data with 0 value in price is also will be dropped.
 ==========================================================================
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/99155979/172292112-86b79acd-c213-4ce8-a427-d9c8add50399.png">
 
+## 4. Exploratory Data Analysis
 
+<img width="505" alt="image" src="https://user-images.githubusercontent.com/99155979/172301533-6df9b77a-a5dc-4140-a3b7-e2a412413573.png">
+==========================================================================
+<img width="670" alt="image" src="https://user-images.githubusercontent.com/99155979/172303184-196ec19e-bd85-4d7f-b21f-53af503d80fa.png">
+
+<img width="667" alt="image" src="https://user-images.githubusercontent.com/99155979/172303237-c1585379-5ae4-4593-b157-64c308ca6203.png">
+
+```python
+Manhattan and Brooklyn have the most properties in their area, but the difference between the median is quite a lot, maybe 
+because in Brooklyn there are more private room than in Manhattan 
+```
+
+<img width="487" alt="image" src="https://user-images.githubusercontent.com/99155979/172303371-ac05aa93-e322-4360-956a-37e97df5df0f.png">
+<img width="490" alt="image" src="https://user-images.githubusercontent.com/99155979/172303422-dbe87d5e-ad1a-4f97-9388-382969d460bf.png">
+
+```python
+Based on type of room and median price in Manhattan and Brooklyn, the more properties there is a probability the properties
+are not that expensive maybe because there are a lot of properties so hosts competing each other and 
+```
 
